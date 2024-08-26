@@ -1,3 +1,7 @@
+# Original Read Me is below.
+# Stuff:
+This is the repository where Tavi Tragus will store all her files for the course Data Science Fundamentals: A Bayesian Perspective.
+
 # data-science-fundamentals
 Code, data, and content for the course Data Science Fundamentals: A Bayesian Perspective
 
